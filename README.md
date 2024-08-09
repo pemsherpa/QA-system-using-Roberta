@@ -1,8 +1,6 @@
 
 # 🚀 Fine-Tuning RoBERTa for Question Answering
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/reponame?style=social) ![GitHub forks](https://img.shields.io/github/forks/yourusername/reponame?style=social) ![License](https://img.shields.io/github/license/yourusername/reponame) ![Issues](https://img.shields.io/github/issues/yourusername/reponame)
-
 Welcome to the **Fine-Tuning RoBERTa for Question Answering** repository! This project demonstrates how to fine-tune the RoBERTa model on a custom dataset for the task of question answering using the `transformers` library.
 
 ## 🌟 Features
