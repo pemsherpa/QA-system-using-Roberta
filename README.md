@@ -1,12 +1,12 @@
 
 # 🚀 Fine-Tuning RoBERTa for Question Answering
 
-Welcome to the **Fine-Tuning RoBERTa for Question Answering** repository! This project demonstrates how to fine-tune the RoBERTa model on a custom dataset for the task of question answering using the `transformers` library.
+Welcome to the **Fine-Tuning RoBERTa for Question Answering** repository! This project demonstrates how I fine-tuned the RoBERTa model on a custom dataset for the task of question answering using the `transformers` library.
 
 ## 🌟 Features
 
 - **State-of-the-Art Model**: Fine-tuning the `deepset/roberta-base-squad2` model, a variant of RoBERTa optimized for question answering tasks.
-- **Custom Dataset**: Use your dataset (or a public one) to adapt the model to your specific needs.
+- **Custom Dataset**: Used Bio-ASQ dataset to adapt the model to your specific needs.
 - **Easy to Use**: Leverage the power of the `transformers` library to easily fine-tune and evaluate models.
 - **Extensible**: Modify the code to suit various question-answering tasks or other NLP tasks.
 
@@ -25,7 +25,7 @@ Welcome to the **Fine-Tuning RoBERTa for Question Answering** repository! This p
 
 ## 🌍 Introduction
 
-This repository provides a step-by-step guide to fine-tuning the RoBERTa model for question answering. Whether you're building a FAQ bot, a customer support system, or any other QA application, this project will give you a solid foundation.
+During my summer internship at the Dhee Center of AI and ML at RV University, I developed a system designed to process extensive information and provide precise answers to user queries based on that context. This project represents a significant milestone in my career, as it showcases my commitment to continually improving my coding skills and embracing new technologies. This experience has been pivotal in my journey, reinforcing my dedication to becoming a more proficient developer every day.
 
 ## 🛠 Installation
 
@@ -124,5 +124,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Special thanks to the [Hugging Face](https://huggingface.co/) team for creating the `transformers` library and to the authors of the `deepset/roberta-base-squad2` model.
 
 ---
-
-Feel free to replace placeholders like `yourusername`, `reponame`, and the dummy values in the results section with the actual details relevant to your project. This README template is designed to be clean, informative, and user-friendly, which should make your GitHub repository appealing and easy to navigate.
